@@ -1,0 +1,66 @@
+
+= DevOps CI Project
+
+== Purpose
+
+devops-ci-project
+
+== License
+
+devops-ci-project is released under the terms of the ${license} license.
+
+== Run
+
+
+
+== Name
+
+devops-ci-project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
